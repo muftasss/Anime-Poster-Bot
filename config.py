@@ -29,8 +29,8 @@ BOT_TOKEN = _get("BOT_TOKEN", "") or _get("TELEGRAM_BOT_TOKEN")  # @BotFather
 ALLOWED_USERS = _ids("ALLOWED_USERS")                       # comma separated ids; empty = everybody
 
 # ---------------------------------------------------------------- links + images (/start, /help)
-MAIN_CHANNEL_URL = _get("MAIN_CHANNEL_URL", "https://t.me/cantarellabots")
-SUPPORT_URL = _get("SUPPORT_URL", "https://t.me/CantarellaBotschat")
+MAIN_CHANNEL_URL = _get("MAIN_CHANNEL_URL", "https://t.me/Solurix_bots")
+SUPPORT_URL = _get("SUPPORT_URL", "https://t.me/+0bPLOJYCDysxYTY1")
 
 # /start and /help are sent as a photo, one picked at random from this list
 MENU_IMAGES = [
