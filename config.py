@@ -23,8 +23,8 @@ def _ids(name: str) -> set[int]:
 BASE_DIR = Path(__file__).resolve().parent
 
 # ---------------------------------------------------------------- telegram (Kurigram)
-API_ID = _int("API_ID", "")                                  # https://my.telegram.org
-API_HASH = _get("API_HASH", "")
+API_ID = _int("API_ID", "31603212")                                  # https://my.telegram.org
+API_HASH = _get("API_HASH", "72beb924ab8dcf425742cd89e8a85d24")
 BOT_TOKEN = _get("BOT_TOKEN", "") or _get("TELEGRAM_BOT_TOKEN")  # @BotFather
 ALLOWED_USERS = _ids("ALLOWED_USERS")                       # comma separated ids; empty = everybody
 
