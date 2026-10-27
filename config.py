@@ -34,12 +34,12 @@ SUPPORT_URL = _get("SUPPORT_URL", "https://t.me/+0bPLOJYCDysxYTY1")
 
 # /start and /help are sent as a photo, one picked at random from this list
 MENU_IMAGES = [
-    "https://files.catbox.moe/5oonsm.jpg",
-    "https://files.catbox.moe/9ufgme.jpg",
-    "https://files.catbox.moe/4b8jvw.jpg",
-    "https://files.catbox.moe/bli70r.jpg",
-    "https://files.catbox.moe/uce0lw.jpg",
-    "https://files.catbox.moe/is7q4q.jpg",
+    "https://graph.org/file/54601bb33c2dc58948477-fc12159d8c59840981.jpg",
+    "https://graph.org/file/cd562afba637bc47bb8f1-b05d6096e6b1db5e29.jpg",
+    "https://graph.org/file/105cc6a727e7535de1a93-b2cb49669606bb4d06.jpg",
+    "https://graph.org/file/ae4f901c955a99b14d286-b396114cf8cc4268ee.jpg",
+    "https://graph.org/file/7cfe66cc404e059b40d78-62d245e9e42abaf5c3.jpg",
+    "https://graph.org/file/db64da0b2504e031a9a22-b7fdf4cfc307c8a726.jpg",
 ]
 
 # ---------------------------------------------------------------- posters
